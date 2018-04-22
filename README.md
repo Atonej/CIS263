@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CIS263_Project_Template
 A basic project template for all programming projects in CIS263.  Includes Catch, our unit testing framework.
 
@@ -20,3 +21,6 @@ make: *** [dirs] Error 64
 ```
 
 it means that your ```src``` directory is empty.  You have likely included all files in the ```include``` directory instead.
+=======
+# CIS263
+>>>>>>> 0ab70e1c96e303a967804f571e78c656c0c97449
